@@ -1,0 +1,58 @@
+This is README for the Hospitality Analytics Project.
+Here are the key insights from the project:
+
+📊 Overall Performance
+
+Revenue: ₹1.69B with an overall RevPAR of 7,337 and ADR of 12,696.
+Occupancy %: 57.79% → indicates moderate utilization, leaving room for improvement.
+Realisation %: ~29.86% → quite low, showing revenue leakage due to cancellations, discounts, or no-shows.
+
+🕒 Weekday vs Weekend
+Weekdays: RevPAR (7,082), Occupancy (55.85%), Realisation % (30.06%).
+Weekends: RevPAR (7,971), Occupancy (62.64%), Realisation % (29.41%).
+➡️ Demand is higher on weekends, but weekday occupancy is lagging. Strategy is needed to improve midweek stays (e.g., corporate tie-ups, discounts for long stays).
+
+🏨 Category Mix
+Luxury contributes 61.62% of revenue while Business contributes 38.38%.
+➡️ Luxury is the main driver of revenue. Business segment needs focused promotions to balance dependency.
+
+📉 Trend by Metrics
+
+ADR has stayed relatively stable (~12K).
+Occupancy % shows a sharp decline around Week 23–26, suggesting a seasonal or operational issue.
+➡️ Investigate reasons for occupancy dip (competitor pricing, seasonal demand, events).
+
+🌐 Booking Platform Insights
+
+Realisation % is consistent (~29–30%) across platforms.
+ADR varies slightly (12,600 – 12,800).
+➡️ No major difference by platform, but reliance on OTAs like MMT/Tripster may be cutting margins. Consider driving more direct bookings through offers/loyalty.
+
+🏙️ City & Property Insights
+
+Mumbai Properties (Atliq Seasons, Atliq City) lead with highest revenues (65M & 87M) and strong occupancy (44.57%–53%).
+Hyderabad Properties show lower ADR (~9K) but decent occupancy (~51–52%).
+Bangalore Properties generate good revenue but lower occupancy (~44–53%).
+➡️ Mumbai is the strongest market. Hyderabad shows value-driven stays but lower ADR, so scope to push premium rooms. Bangalore needs occupancy boost campaigns.
+
+⚠️ Cancellation Impact
+
+Cancellation % ~25% on average.
+➡️ This is a big red flag — lost potential revenue. Business should strengthen cancellation policies, flexible rescheduling, and advance booking incentives.
+
+⭐ Guest Experience
+
+Average Rating = 3.62/5, with some properties dipping below 3.0 (e.g., Atliq Seasons 2.30, Atliq Exotica 2.33).
+➡️ Low ratings may be directly linked to cancellations and occupancy struggles. Focus on customer service, cleanliness, and value-for-money improvements.
+
+✅ Business Recommendations
+
+Boost Midweek Occupancy: Corporate tie-ups, extended stay packages, and midweek discounts.
+Improve Realisation %: Reduce cancellations via stricter policies, loyalty discounts for confirmed stays.
+Strengthen Direct Bookings: Invest in website/app offers to cut OTA commissions.
+Focus on Ratings: Properties below 3.0 need urgent service and quality improvement to rebuild trust.
+Dynamic Pricing: RevPAR can improve with seasonal pricing strategies, especially in underperforming cities.
+City-wise Strategy:
+Mumbai → Already strong; maintain ADR and service.
+Hyderabad → Push premium pricing gradually.
+Bangalore → Targeted campaigns to increase occupancy.
